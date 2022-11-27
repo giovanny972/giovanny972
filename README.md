@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Giovanny</h1>
-<h3 align="center">Un développeur frontend passionné d'Inde</h3>
+<h3 align="center">Un développeur passionné</h3>
 
 <p align="left"> <img src=" https://komarev.com/ghpvc/?username=giovanny972&label=Profile%20views&color=0e75b6&style=flat" alt="giovanny972" /> </p>
 

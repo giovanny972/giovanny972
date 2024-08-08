@@ -1,15 +1,5 @@
 <h1 align="center">Salut 👋, je suis Giovanny</h1>
 <h3 align="center">Un développeur passionné</h3>
-<p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Giovanny ADELAIDE" /></a>
-</p>
-
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
 
 <p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"></a ><img src="https://github-profile-trophy.vercel.app/?username=giovanny972" alt="giovanny972" /> </p>
 <img align="right" alt="Codage" width="150" align="center" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">

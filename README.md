@@ -36,7 +36,7 @@
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
-**Code Cycle**<br>
+<br>**Code Cycle**<br>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

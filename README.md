@@ -1,8 +1,8 @@
 <h1 align="center">Salut 👋, je suis Giovanny</h1>
 <h3 align="center">Un développeur passionné</h3>
 <div align="center" width="50">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/giovanny972" alt="Hello Coders" width="70%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/giovanny972" alt="CoDiNg RocKs"  width="60%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
 </div>
 
 <p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"></a ><img src="https://github-profile-trophy.vercel.app/?username=giovanny972" alt="giovanny972" /> </p>
